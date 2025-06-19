@@ -1,6 +1,7 @@
 # 🧮 CalculaTotal
 
 Este proyecto es un desafío práctico de JavaScript enfocado en la manipulación del DOM, específicamente para actualizar dinámicamente la cantidad y el total a pagar de un producto en una tienda online.
+Visita la página en la siguiente url: https://magicux.github.io/CalculaTotal/
 
 ## 📝 Descripción
 
